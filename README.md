@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#Python developer who's working on some interesting stuff.
+### Python developer who's working on some interesting stuff.
 <!--
 **eithe0r/eithe0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
